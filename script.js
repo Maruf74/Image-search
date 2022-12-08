@@ -18,7 +18,6 @@ const getPhotoHTML = (ul, lul) => {
             <button type="button" class="btn w-100" data-bs-toggle="modal" data-bs-target="#id${id}">
             <img width="100%" height="150" src="${ul}" alt="">
             </button>
-                    ${id}
             </div>
         </div>
         
